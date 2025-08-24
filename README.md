@@ -19,6 +19,9 @@ simple structure for displaying and interacting with data. The goal was to keep 
 Deployment-
 The project is deployed on Vercel:
 [deployed](https://frontend-assignment-demo-beta.vercel.app/)
+storybook - [https://frontend-assignment-ashen-theta.vercel.app/](https://frontend-assignment-ashen-theta.vercel.app/?path=/docs/configure-your-project--docs)
 
 Demo-
 Here is a quick demo of the components in action:![Demo](./screenshots/frontend-assignment.gif)
+
+
